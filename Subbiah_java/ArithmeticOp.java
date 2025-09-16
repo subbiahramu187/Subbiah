@@ -10,6 +10,7 @@ public class ArithmeticOp {
          System.out.println("Sub="+ (first-second));
          System.out.println("Mul="+ (first*second));
          System.out.println("Div="+ (first/second));
+         System.out.println("Div="+ (first/second));
 
 	}
 
